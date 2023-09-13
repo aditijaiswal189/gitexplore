@@ -1,1 +1,9 @@
 #this is a comment
+
+*.js
+node_moules/
+assets/videos/
+*.mp4
+!app.js
+DS_Store
+*.log
